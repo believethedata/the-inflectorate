@@ -1,0 +1,2 @@
+# Article charts
+This folder contains the data behind the [datawrapper](https://www.datawrapper.de/) charts from the article. It also contains the image files used to create the animated `.gif` from the article as well as the `.gif` file itself. These are contained in the `population_animation` folder.
