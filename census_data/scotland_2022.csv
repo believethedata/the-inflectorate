@@ -1,0 +1,77 @@
+SuperWEB2(tm)
+
+"Individual2022ReadOnly"
+"Scotland's Census 2022 - National Records of Scotland Table UV205 - Religion All people "
+"United Kingdom Parliamentary Constituency 2024 by Religion - 12 groups by Individuals"
+"Counting: Individuals"
+
+Filters:
+"Summation Options","Individuals"
+
+"Religion - 12 groups","All people","Church of Scotland","Roman Catholic","Other Christian","Buddhist","Hindu","Jewish","Muslim","Sikh","Pagan","Other religion","No religion","Religion not stated",
+"United Kingdom Parliamentary Constituency 2024",
+"East Renfrewshire",96817,20371,19980,3756,252,1253,1511,5290,618,146,161,36811,6664,
+"Na h-Eileanan an Iar",26140,9239,3159,4234,58,16,0,58,1,125,76,7828,1345,
+"Midlothian",96527,18554,8256,3895,188,279,51,1163,59,297,185,58436,5163,
+"North Ayrshire and Arran",91515,24717,11986,3365,196,48,33,362,106,340,205,44541,5616,
+"Orkney and Shetland",44944,10223,1236,3499,137,17,22,78,3,334,142,26795,2465,
+"Aberdeen North",111947,16191,9831,7453,433,1535,52,3234,78,344,342,66089,6361,
+"Aberdeen South",112074,16460,9409,9439,581,1475,92,3227,87,454,377,63787,6679,
+"Aberdeenshire North and Moray East",97578,22063,4586,7853,179,66,43,222,29,377,195,55849,6130,
+"Airdrie and Shotts",93041,22078,26745,2943,95,95,26,1466,95,174,143,33986,5193,
+"Alloa and Grangemouth",94405,21255,8240,3746,130,138,34,1130,72,355,180,54084,5043,
+"Angus and Perthshire Glens",97424,26732,5395,5327,174,79,36,388,19,451,213,52901,5715,
+"Arbroath and Broughty Ferry",99589,21937,8715,4151,201,135,50,1087,52,325,155,57094,5680,
+"Argyll, Bute and South Lochaber",91146,24350,8307,6143,277,91,71,344,48,558,198,44252,6506,
+"Bathgate and Linlithgow",94469,21111,12009,3780,144,241,38,820,56,340,157,50656,5117,
+"Caithness, Sutherland and Easter Ross",95969,24408,4127,7205,224,81,51,347,14,451,229,52601,6238,
+"Coatbridge and Bellshill",94957,16479,36261,2126,117,89,12,1286,173,187,104,32601,5520,
+"Cowdenbeath and Kirkcaldy",94981,17551,7041,4098,194,205,38,1268,199,358,210,58217,5599,
+"Cumbernauld and Kirkintilloch",91860,17563,21963,3260,129,143,26,1102,272,238,135,41281,5745,
+"Dumfries and Galloway",95722,27212,5842,5251,256,84,32,484,59,381,208,50173,5740,
+"Dumfriesshire, Clydesdale and Tweeddale",87669,24956,4397,5160,286,35,63,207,20,381,167,46472,5529,
+"Dundee Central",105877,13468,15327,5508,640,1023,73,5429,128,526,272,57021,6472,
+"Dunfermline and Dollar",95566,17216,7544,4724,180,370,41,1175,87,335,199,58423,5268,
+"East Kilbride and Strathaven",95878,20364,16935,3959,135,226,104,1012,241,258,150,46714,5777,
+"Edinburgh East and Musselburgh",113742,13209,12703,6507,749,1210,302,4299,484,598,396,65791,7497,
+"Edinburgh North and Leith",110079,10889,12076,7571,684,1549,296,3641,372,532,429,64613,7427,
+"Edinburgh South",99877,13209,10258,7392,523,987,341,3533,183,333,295,55798,7026,
+"Edinburgh South West",107030,15167,9915,7290,554,2784,167,4058,163,457,326,59398,6752,
+"Edinburgh West",98521,19755,8475,5642,344,1975,174,2649,219,224,220,52649,6198,
+"Falkirk",96703,21261,11937,3830,179,159,23,1452,103,349,220,51932,5258,
+"Glasgow East",99687,14086,23644,4614,351,1693,120,9086,347,309,353,38176,6915,
+"Glasgow North",109093,10948,18336,6090,869,2668,268,7443,631,420,349,53142,7929,
+"Glasgow North East",107125,15711,27345,5466,454,1128,103,5420,395,295,271,42933,7605,
+"Glasgow South",91448,11330,20204,3380,306,515,202,7010,521,324,270,41076,6309,
+"Glasgow South West",96233,12646,18768,3653,342,1034,115,13725,1088,285,255,37219,7106,
+"Glasgow West",99080,14748,15993,5133,477,944,153,5152,380,308,265,48719,6814,
+"Glenrothes and Mid Fife",92662,16507,6293,3327,160,127,20,799,111,375,231,59568,5149,
+"Gordon and Buchan",92504,22661,3450,4572,138,117,32,453,15,312,141,55539,5071,
+"Hamilton and Clyde Valley",97362,24113,18382,4141,132,252,53,1149,134,237,214,42852,5694,
+"Inverclyde and Renfrewshire West",90043,21948,27821,3273,106,135,35,562,95,172,121,30570,5210,
+"Inverness, Skye and West Ross-shire",105007,22633,8573,8343,318,228,52,709,36,605,300,56333,6874,
+"Livingston",102162,18494,13802,4670,153,579,42,2146,77,328,207,56124,5540,
+"Lothian East",97579,21885,7618,4624,198,149,63,700,72,279,177,56272,5542,
+"Mid Dunbartonshire",95376,22628,17431,4272,187,873,43,1367,851,185,178,41135,6220,
+"Moray West, Nairn and Strathspey",98659,21746,5125,6949,339,99,60,299,28,500,247,57157,6110,
+"Motherwell, Wishaw and Carluke",97492,23646,22458,4029,118,119,23,1840,172,261,172,39393,5263,
+"North East Fife",92291,21149,6010,6069,341,249,163,606,77,397,269,50850,6109,
+"Paisley and Renfrewshire North",93190,18863,17893,3861,196,523,30,2289,689,241,198,42690,5716,
+"Paisley and Renfrewshire South",94098,18504,19299,3720,141,233,46,1090,207,280,177,44748,5660,
+"Perth and Kinross-shire",101706,23969,8593,6569,402,231,51,781,40,380,252,53958,6477,
+"Rutherglen",93731,18234,24435,2942,131,359,42,2415,221,173,126,39001,5651,
+"Stirling and Strathallan",102001,23091,10345,5743,297,466,68,997,128,375,245,53858,6395,
+"West Dunbartonshire",91456,17885,25722,2507,157,108,34,772,105,274,133,38183,5576,
+"Ayr, Carrick and Cumnock",90327,26131,6820,3640,151,155,42,382,128,352,199,46745,5579,
+"Berwickshire, Roxburgh and Selkirk",96588,24472,5056,6315,273,95,53,316,36,399,189,52850,6531,
+"Central Ayrshire",87670,24898,8313,3206,140,129,38,366,243,257,169,44655,5252,
+"Kilmarnock and Loudoun",95744,24620,8453,3126,130,43,57,627,96,327,204,52823,5238,
+"West Aberdeenshire and Kincardine",97475,22283,4490,5958,248,283,33,547,27,240,223,57530,5610,
+
+
+"INFO","Cells in this table have been randomly adjusted to avoid the release of confidential data."
+
+
+"Crown copyright 2024 For further information on variables, see https://www.scotlandscensus.gov.uk/about/metadata-a-to-z/ In order to protect against disclosure of personal information, Statistical Disclosure Control has been applied to the data/outputs.  Cells might not sum to sub totals and totals due to these Statistical Disclosure Controls. To find out more on this visit https://www.scotlandscensus.gov.uk/about/2022-census/statistical-methodology/statistical-disclosure-control/ "
+
+(c) Copyright WingArc Australia 2018

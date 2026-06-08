@@ -1,0 +1,651 @@
+constituency_name,biggest,share,majority,category
+Aberafan Maesteg,Non-religious,0.605948432956046,True,Non-religious majority
+Aldershot,Non-religious,0.44954747858008887,False,Non-religious plurality
+Aldridge-Brownhills,Christian,0.45710447934018456,False,Christian plurality
+Altrincham and Sale West,Christian,0.4257957497247994,False,Christian plurality
+Alyn and Deeside,Non-religious,0.493441565215717,False,Non-religious plurality
+Amber Valley,Non-religious,0.5786396562442407,True,Non-religious majority
+Arundel and South Downs,Christian,0.46459296264539307,False,Christian plurality
+Ashfield,Non-religious,0.5868694761980582,True,Non-religious majority
+Ashford,Non-religious,0.49528357973153425,False,Non-religious plurality
+Ashton-under-Lyne,Non-religious,0.42289737606919076,False,Non-religious plurality
+Aylesbury,Non-religious,0.41843341600287703,False,Non-religious plurality
+Banbury,Non-religious,0.45029731112958843,False,Non-religious plurality
+Bangor Aberconwy,Non-religious,0.5036088365240589,True,Non-religious majority
+Barking,Christian,0.3781631118008257,False,Christian plurality
+Barnsley North,Non-religious,0.5160666725137282,True,Non-religious majority
+Barnsley South,Non-religious,0.5334586614306214,True,Non-religious majority
+Barrow and Furness,Non-religious,0.47711650157764696,False,Non-religious plurality
+Basildon and Billericay,Non-religious,0.5166541785906428,True,Non-religious majority
+Basingstoke,Non-religious,0.5203898918028411,True,Non-religious majority
+Bassetlaw,Non-religious,0.47120598117115775,False,Non-religious plurality
+Bath,Non-religious,0.5698426691367809,True,Non-religious majority
+Battersea,Non-religious,0.42615627490877134,False,Non-religious plurality
+Beaconsfield,Christian,0.4093214441169698,False,Christian plurality
+Beckenham and Penge,Non-religious,0.4551575971239483,False,Non-religious plurality
+Bedford,Christian,0.4019298955431509,False,Christian plurality
+Bermondsey and Old Southwark,Non-religious,0.42194609162071917,False,Non-religious plurality
+Bethnal Green and Stepney,Muslim,0.48537662605421705,False,Muslim plurality
+Beverley and Holderness,Non-religious,0.48605166585004733,False,Non-religious plurality
+Bexhill and Battle,Non-religious,0.48954511327232997,False,Non-religious plurality
+Bexleyheath and Crayford,Christian,0.4305645260300772,False,Christian plurality
+Bicester and Woodstock,Non-religious,0.4665580314539495,False,Non-religious plurality
+Birkenhead,Non-religious,0.4746084869850967,False,Non-religious plurality
+Birmingham Edgbaston,Non-religious,0.3302388949251078,False,Non-religious plurality
+Birmingham Erdington,Christian,0.38764667596323066,False,Christian plurality
+Birmingham Hall Green and Moseley,Muslim,0.5808818999987234,True,Muslim majority
+Birmingham Hodge Hill and Solihull North,Muslim,0.41134517606465026,False,Muslim plurality
+Birmingham Ladywood,Muslim,0.5272184864310759,True,Muslim majority
+Birmingham Northfield,Non-religious,0.464398110252807,False,Non-religious plurality
+Birmingham Perry Barr,Muslim,0.4722420448998777,False,Muslim plurality
+Birmingham Selly Oak,Non-religious,0.42153212135002627,False,Non-religious plurality
+Birmingham Yardley,Muslim,0.46610413027299996,False,Muslim plurality
+Bishop Auckland,Christian,0.4867004872545192,False,Christian plurality
+Blackburn,Muslim,0.5039100167117415,True,Muslim majority
+Blackley and Middleton South,Christian,0.4406532618215064,False,Christian plurality
+Blackpool North and Fleetwood,Christian,0.4714691076892329,False,Christian plurality
+Blackpool South,Non-religious,0.5067515923342945,True,Non-religious majority
+Blaenau Gwent and Rhymney,Non-religious,0.650009790438811,True,Non-religious majority
+Blaydon and Consett,Non-religious,0.4839695199344153,False,Non-religious plurality
+Blyth and Ashington,Non-religious,0.5389278775871335,True,Non-religious majority
+Bognor Regis and Littlehampton,Non-religious,0.486879953188209,False,Non-religious plurality
+Bolsover,Non-religious,0.541521479278501,True,Non-religious majority
+Bolton North East,Christian,0.4020137436023044,False,Christian plurality
+Bolton South and Walkden,Christian,0.32702166542163896,False,Christian plurality
+Bolton West,Christian,0.46707161530359764,False,Christian plurality
+Bootle,Christian,0.5708078004653478,True,Christian majority
+Boston and Skegness,Christian,0.49790964672723087,False,Christian plurality
+Bournemouth East,Non-religious,0.47397982013242396,False,Non-religious plurality
+Bournemouth West,Non-religious,0.5206559360194104,True,Non-religious majority
+Bracknell,Non-religious,0.48684854519431975,False,Non-religious plurality
+Bradford East,Muslim,0.4706140045584232,False,Muslim plurality
+Bradford South,Non-religious,0.3983793585439867,False,Non-religious plurality
+Bradford West,Muslim,0.6186877953652058,True,Muslim majority
+Braintree,Non-religious,0.5293644760826891,True,Non-religious majority
+"Brecon, Radnor and Cwm Tawe",Non-religious,0.5220934454317546,True,Non-religious majority
+Brent East,Christian,0.3849731731209407,False,Christian plurality
+Brent West,Christian,0.3294394957420774,False,Christian plurality
+Brentford and Isleworth,Christian,0.35674687300956237,False,Christian plurality
+Brentwood and Ongar,Christian,0.4774918687127828,False,Christian plurality
+Bridgend,Non-religious,0.5799370054076903,True,Non-religious majority
+Bridgwater,Non-religious,0.5057735679638304,True,Non-religious majority
+Bridlington and The Wolds,Non-religious,0.47192411282077795,False,Non-religious plurality
+Brigg and Immingham,Non-religious,0.48013224352363154,False,Non-religious plurality
+Brighton Kemptown and Peacehaven,Non-religious,0.5829923379624928,True,Non-religious majority
+Brighton Pavilion,Non-religious,0.6624317120627364,True,Non-religious majority
+Bristol Central,Non-religious,0.6441954694803527,True,Non-religious majority
+Bristol East,Non-religious,0.5458601607539544,True,Non-religious majority
+Bristol North East,Non-religious,0.5304504389258149,True,Non-religious majority
+Bristol North West,Non-religious,0.5551670607607401,True,Non-religious majority
+Bristol South,Non-religious,0.6481793659574013,True,Non-religious majority
+Broadland and Fakenham,Non-religious,0.5188306771602651,True,Non-religious majority
+Bromley and Biggin Hill,Non-religious,0.4432470917882752,False,Non-religious plurality
+Bromsgrove,Non-religious,0.462002626386216,False,Non-religious plurality
+Broxbourne,Christian,0.4553654304006729,False,Christian plurality
+Broxtowe,Non-religious,0.5519994948161263,True,Non-religious majority
+Buckingham and Bletchley,Non-religious,0.4468993923199378,False,Non-religious plurality
+Burnley,Christian,0.3743586808829993,False,Christian plurality
+Burton and Uttoxeter,Christian,0.41690760527032944,False,Christian plurality
+Bury North,Christian,0.4380946819705676,False,Christian plurality
+Bury South,Christian,0.35661148768910633,False,Christian plurality
+Bury St Edmunds and Stowmarket,Non-religious,0.5207579795482823,True,Non-religious majority
+Caerfyrddin,Non-religious,0.5027588097350497,True,Non-religious majority
+Caerphilly,Non-religious,0.6393552486068649,True,Non-religious majority
+Calder Valley,Non-religious,0.5507569578897136,True,Non-religious majority
+Camborne and Redruth,Non-religious,0.5749327205311694,True,Non-religious majority
+Cambridge,Non-religious,0.4952074542819374,False,Non-religious plurality
+Cannock Chase,Non-religious,0.501981773334096,True,Non-religious majority
+Canterbury,Non-religious,0.49244029193312433,False,Non-religious plurality
+Cardiff East,Non-religious,0.48359767550585564,False,Non-religious plurality
+Cardiff North,Non-religious,0.4992984624931049,False,Non-religious plurality
+Cardiff South and Penarth,Non-religious,0.49149732776683747,False,Non-religious plurality
+Cardiff West,Non-religious,0.5118730964430186,True,Non-religious majority
+Carlisle,Non-religious,0.4848727899521318,False,Non-religious plurality
+Carshalton and Wallington,Non-religious,0.3915538084754336,False,Non-religious plurality
+Castle Point,Non-religious,0.519167575554741,True,Non-religious majority
+Central Devon,Non-religious,0.5269201038246412,True,Non-religious majority
+Central Suffolk and North Ipswich,Non-religious,0.5164163514987672,True,Non-religious majority
+Ceredigion Preseli,Non-religious,0.5042234387779265,True,Non-religious majority
+Chatham and Aylesford,Non-religious,0.5146732803424455,True,Non-religious majority
+Cheadle,Non-religious,0.4109210064649855,False,Non-religious plurality
+Chelmsford,Non-religious,0.48977360165629674,False,Non-religious plurality
+Chelsea and Fulham,Christian,0.4544350522666074,False,Christian plurality
+Cheltenham,Non-religious,0.5260608362968796,True,Non-religious majority
+Chesham and Amersham,Christian,0.41064558290673825,False,Christian plurality
+Chester North and Neston,Non-religious,0.47993702171870284,False,Non-religious plurality
+Chester South and Eddisbury,Christian,0.5019028827244827,True,Christian majority
+Chesterfield,Non-religious,0.5326393446883987,True,Non-religious majority
+Chichester,Non-religious,0.4795039583967157,False,Non-religious plurality
+Chingford and Woodford Green,Christian,0.40785826463831915,False,Christian plurality
+Chippenham,Non-religious,0.5262431986263036,True,Non-religious majority
+Chipping Barnet,Christian,0.3841460827809848,False,Christian plurality
+Chorley,Christian,0.5207529005933897,True,Christian majority
+Christchurch,Christian,0.467249652685507,False,Christian plurality
+Cities of London and Westminster,Christian,0.33927715510002293,False,Christian plurality
+City of Durham,Non-religious,0.4877570685573739,False,Non-religious plurality
+Clacton,Non-religious,0.5062912565286513,True,Non-religious majority
+Clapham and Brixton Hill,Non-religious,0.4490842412794978,False,Non-religious plurality
+Clwyd East,Non-religious,0.4857664606087055,False,Non-religious plurality
+Clwyd North,Non-religious,0.5076820501257996,True,Non-religious majority
+Colchester,Non-religious,0.5279833949838397,True,Non-religious majority
+Colne Valley,Non-religious,0.5270121782937038,True,Non-religious majority
+Congleton,Christian,0.4694544867508532,False,Christian plurality
+Corby and East Northamptonshire,Non-religious,0.4939999941272886,False,Non-religious plurality
+Coventry East,Christian,0.38743898079749944,False,Christian plurality
+Coventry North West,Christian,0.4117942922116557,False,Christian plurality
+Coventry South,Christian,0.3522852889908462,False,Christian plurality
+Cramlington and Killingworth,Non-religious,0.5417999673974495,True,Non-religious majority
+Crawley,Non-religious,0.40647936736499735,False,Non-religious plurality
+Crewe and Nantwich,Non-religious,0.46580847031151423,False,Non-religious plurality
+Croydon East,Christian,0.4527822724662528,False,Christian plurality
+Croydon South,Christian,0.43253110957675944,False,Christian plurality
+Croydon West,Christian,0.43543473680626393,False,Christian plurality
+Dagenham and Rainham,Christian,0.43236747756446436,False,Christian plurality
+Darlington,Non-religious,0.4888589983050684,False,Non-religious plurality
+Dartford,Non-religious,0.41987201480477865,False,Non-religious plurality
+Daventry,Non-religious,0.4772929497270333,False,Non-religious plurality
+Derby North,Non-religious,0.4779794134801301,False,Non-religious plurality
+Derby South,Non-religious,0.3487496520760987,False,Non-religious plurality
+Derbyshire Dales,Non-religious,0.46537434723956583,False,Non-religious plurality
+Dewsbury and Batley,Muslim,0.46461782461101186,False,Muslim plurality
+Didcot and Wantage,Non-religious,0.5243952866706281,True,Non-religious majority
+Doncaster Central,Non-religious,0.4410325757035862,False,Non-religious plurality
+Doncaster East and the Isle of Axholme,Non-religious,0.4650199994084351,False,Non-religious plurality
+Doncaster North,Non-religious,0.5248676159561214,True,Non-religious majority
+Dorking and Horley,Non-religious,0.47265020711549266,False,Non-religious plurality
+Dover and Deal,Non-religious,0.5154297125164877,True,Non-religious majority
+Droitwich and Evesham,Christian,0.49039960515187175,False,Christian plurality
+Dudley,Non-religious,0.42280034422854496,False,Non-religious plurality
+Dulwich and West Norwood,Non-religious,0.43959890517976496,False,Non-religious plurality
+Dunstable and Leighton Buzzard,Non-religious,0.49038464810902394,False,Non-religious plurality
+Dwyfor Meirionnydd,Non-religious,0.5127562111707755,True,Non-religious majority
+Ealing Central and Acton,Christian,0.3632412899587234,False,Christian plurality
+Ealing North,Christian,0.3902572887061336,False,Christian plurality
+Ealing Southall,Christian,0.2735980331731669,False,Christian plurality
+Earley and Woodley,Non-religious,0.4063694803478896,False,Non-religious plurality
+Easington,Non-religious,0.48476020302284606,False,Non-religious plurality
+East Grinstead and Uckfield,Non-religious,0.5000041189466453,True,Non-religious majority
+East Ham,Muslim,0.49183077765564753,False,Muslim plurality
+East Hampshire,Non-religious,0.48858711652817605,False,Non-religious plurality
+East Surrey,Non-religious,0.46855337767395355,False,Non-religious plurality
+East Thanet,Non-religious,0.5372069950261024,True,Non-religious majority
+East Wiltshire,Non-religious,0.4649160356143533,False,Non-religious plurality
+East Worthing and Shoreham,Non-religious,0.5568437902869211,True,Non-religious majority
+Eastbourne,Non-religious,0.5084640690476654,True,Non-religious majority
+Eastleigh,Non-religious,0.5286421272541303,True,Non-religious majority
+Edmonton and Winchmore Hill,Christian,0.4154596712757744,False,Christian plurality
+Ellesmere Port and Bromborough,Non-religious,0.47836063231495796,False,Non-religious plurality
+Eltham and Chislehurst,Christian,0.42080456382192993,False,Christian plurality
+Ely and East Cambridgeshire,Non-religious,0.5111358461086724,True,Non-religious majority
+Enfield North,Christian,0.41432553399254485,False,Christian plurality
+Epping Forest,Christian,0.4138882147205307,False,Christian plurality
+Epsom and Ewell,Non-religious,0.43081439538603344,False,Non-religious plurality
+Erewash,Non-religious,0.598710306024208,True,Non-religious majority
+Erith and Thamesmead,Christian,0.44474021232878697,False,Christian plurality
+Esher and Walton,Non-religious,0.44453265221614174,False,Non-religious plurality
+Exeter,Non-religious,0.565230760781992,True,Non-religious majority
+Exmouth and Exeter East,Non-religious,0.5291277019699736,True,Non-religious majority
+Fareham and Waterlooville,Non-religious,0.5412201109191576,True,Non-religious majority
+Farnham and Bordon,Non-religious,0.4842814579102395,False,Non-religious plurality
+Faversham and Mid Kent,Non-religious,0.5101768751013355,True,Non-religious majority
+Feltham and Heston,Christian,0.34483471496594303,False,Christian plurality
+Filton and Bradley Stoke,Non-religious,0.5381144803674828,True,Non-religious majority
+Finchley and Golders Green,Christian,0.2814332300706942,False,Christian plurality
+Folkestone and Hythe,Non-religious,0.5030275019212513,True,Non-religious majority
+Forest of Dean,Non-religious,0.502336277900309,True,Non-religious majority
+Frome and East Somerset,Non-religious,0.5514859207200814,True,Non-religious majority
+Fylde,Christian,0.5370192936116758,True,Christian majority
+Gainsborough,Non-religious,0.4686755384652789,False,Non-religious plurality
+Gateshead Central and Whickham,Non-religious,0.4834793132092199,False,Non-religious plurality
+Gedling,Non-religious,0.5628249889584367,True,Non-religious majority
+Gillingham and Rainham,Non-religious,0.49711411365700153,False,Non-religious plurality
+Glastonbury and Somerton,Non-religious,0.47795016567173065,False,Non-religious plurality
+Gloucester,Non-religious,0.47509186866082415,False,Non-religious plurality
+Godalming and Ash,Non-religious,0.4651625752299038,False,Non-religious plurality
+Goole and Pocklington,Christian,0.46971036249249554,False,Christian plurality
+Gorton and Denton,Christian,0.31909171341215525,False,Christian plurality
+Gosport,Non-religious,0.5512291136577511,True,Non-religious majority
+Gower,Non-religious,0.5266093688401441,True,Non-religious majority
+Grantham and Bourne,Christian,0.4656243751536,False,Christian plurality
+Gravesham,Christian,0.42411297416041993,False,Christian plurality
+Great Grimsby and Cleethorpes,Non-religious,0.5780959726301822,True,Non-religious majority
+Great Yarmouth,Non-religious,0.5320367907295601,True,Non-religious majority
+Greenwich and Woolwich,Non-religious,0.41165120186753856,False,Non-religious plurality
+Guildford,Non-religious,0.46582314591509083,False,Non-religious plurality
+Hackney North and Stoke Newington,Non-religious,0.3713032746320555,False,Non-religious plurality
+Hackney South and Shoreditch,Non-religious,0.44231696694363354,False,Non-religious plurality
+Halesowen,Non-religious,0.4407742927092421,False,Non-religious plurality
+Halifax,Non-religious,0.441109523818715,False,Non-religious plurality
+Hamble Valley,Non-religious,0.5314781727678909,True,Non-religious majority
+Hammersmith and Chiswick,Christian,0.38852891521482047,False,Christian plurality
+Hampstead and Highgate,Non-religious,0.3979661610697812,False,Non-religious plurality
+"Harborough, Oadby and Wigston",Non-religious,0.3990288348917636,False,Non-religious plurality
+Harlow,Non-religious,0.4841020292932544,False,Non-religious plurality
+Harpenden and Berkhamsted,Non-religious,0.4670144209373692,False,Non-religious plurality
+Harrogate and Knaresborough,Non-religious,0.4591147088984573,False,Non-religious plurality
+Harrow East,Christian,0.3192577453644546,False,Christian plurality
+Harrow West,Christian,0.3284165841455236,False,Christian plurality
+Hartlepool,Non-religious,0.497360907403199,False,Non-religious plurality
+Harwich and North Essex,Non-religious,0.519542741712205,True,Non-religious majority
+Hastings and Rye,Non-religious,0.5755339830397114,True,Non-religious majority
+Havant,Non-religious,0.5577049949853398,True,Non-religious majority
+Hayes and Harlington,Christian,0.2776141521937713,False,Christian plurality
+Hazel Grove,Non-religious,0.4975700081848678,False,Non-religious plurality
+Hemel Hempstead,Non-religious,0.4738288055459484,False,Non-religious plurality
+Hendon,Christian,0.337533642500265,False,Christian plurality
+Henley and Thame,Non-religious,0.47340596895997983,False,Non-religious plurality
+Hereford and South Herefordshire,Christian,0.462253846648795,False,Christian plurality
+Herne Bay and Sandwich,Non-religious,0.4930739869761606,False,Non-religious plurality
+Hertford and Stortford,Non-religious,0.5044418954101176,True,Non-religious majority
+Hertsmere,Christian,0.3732956456966383,False,Christian plurality
+Hexham,Christian,0.4740886613514705,False,Christian plurality
+Heywood and Middleton North,Christian,0.4431044878572859,False,Christian plurality
+High Peak,Non-religious,0.5316891989419397,True,Non-religious majority
+Hinckley and Bosworth,Non-religious,0.4996552555432278,False,Non-religious plurality
+Hitchin,Non-religious,0.5345843357618527,True,Non-religious majority
+Holborn and St Pancras,Non-religious,0.39634021395224944,False,Non-religious plurality
+Honiton and Sidmouth,Non-religious,0.49862108763850366,False,Non-religious plurality
+Hornchurch and Upminster,Christian,0.46379582365562483,False,Christian plurality
+Hornsey and Friern Barnet,Non-religious,0.46568613491884875,False,Non-religious plurality
+Horsham,Non-religious,0.5145539695516108,True,Non-religious majority
+Houghton and Sunderland South,Non-religious,0.49578460214936415,False,Non-religious plurality
+Hove and Portslade,Non-religious,0.5868319683390467,True,Non-religious majority
+Huddersfield,Non-religious,0.38735637251843863,False,Non-religious plurality
+Huntingdon,Non-religious,0.5059657690418797,True,Non-religious majority
+Hyndburn,Christian,0.41521432876614944,False,Christian plurality
+Ilford North,Muslim,0.34262269560692216,False,Muslim plurality
+Ilford South,Muslim,0.4589007299044501,False,Muslim plurality
+Ipswich,Non-religious,0.5111099810256802,True,Non-religious majority
+Isle of Wight East,Non-religious,0.5056026303414446,True,Non-religious majority
+Isle of Wight West,Non-religious,0.5271660285494847,True,Non-religious majority
+Islington North,Non-religious,0.4654439475716531,False,Non-religious plurality
+Islington South and Finsbury,Non-religious,0.4576324563098547,False,Non-religious plurality
+Jarrow and Gateshead East,Non-religious,0.49372764326779783,False,Non-religious plurality
+Keighley and Ilkley,Non-religious,0.41711522270875856,False,Non-religious plurality
+Kenilworth and Southam,Christian,0.45536851451494437,False,Christian plurality
+Kensington and Bayswater,Christian,0.41110716985404244,False,Christian plurality
+Kettering,Non-religious,0.497191288540021,False,Non-religious plurality
+Kingston and Surbiton,Non-religious,0.41536375651491775,False,Non-religious plurality
+Kingston upon Hull East,Non-religious,0.6142662005163875,True,Non-religious majority
+Kingston upon Hull North and Cottingham,Non-religious,0.532137756350343,True,Non-religious majority
+Kingston upon Hull West and Haltemprice,Non-religious,0.5264477878384586,True,Non-religious majority
+Kingswinford and South Staffordshire,Christian,0.5119811303957275,True,Christian majority
+Knowsley,Christian,0.5812714053788749,True,Christian majority
+Lancaster and Wyre,Non-religious,0.45139942056654014,False,Non-religious plurality
+Leeds Central and Headingley,Non-religious,0.5398747274241797,True,Non-religious majority
+Leeds East,Non-religious,0.4037448955651693,False,Non-religious plurality
+Leeds North East,Non-religious,0.38156341619866707,False,Non-religious plurality
+Leeds North West,Non-religious,0.48926175205978734,False,Non-religious plurality
+Leeds South,Non-religious,0.4352226818742275,False,Non-religious plurality
+Leeds South West and Morley,Non-religious,0.5399084448022704,True,Non-religious majority
+Leeds West and Pudsey,Non-religious,0.5229025575274593,True,Non-religious majority
+Leicester East,Hindu,0.3866096856438396,False,Hindu plurality
+Leicester South,Muslim,0.376364281858625,False,Muslim plurality
+Leicester West,Non-religious,0.3749136948585171,False,Non-religious plurality
+Leigh and Atherton,Christian,0.5045998120783454,True,Christian majority
+Lewes,Non-religious,0.5534648592834724,True,Non-religious majority
+Lewisham East,Christian,0.43623648568924317,False,Christian plurality
+Lewisham North,Non-religious,0.44420100449151756,False,Non-religious plurality
+Lewisham West and East Dulwich,Non-religious,0.5094926953498903,True,Non-religious majority
+Leyton and Wanstead,Christian,0.3375554334010818,False,Christian plurality
+Lichfield,Christian,0.4672548942320218,False,Christian plurality
+Lincoln,Non-religious,0.5398049678694394,True,Non-religious majority
+Liverpool Garston,Christian,0.5477739978532858,True,Christian majority
+Liverpool Riverside,Christian,0.3939183429383922,False,Christian plurality
+Liverpool Walton,Christian,0.5971937061513078,True,Christian majority
+Liverpool Wavertree,Christian,0.4173620367508229,False,Christian plurality
+Liverpool West Derby,Christian,0.582835274361922,True,Christian majority
+Llanelli,Non-religious,0.5518004954177725,True,Non-religious majority
+Loughborough,Non-religious,0.4905842294404803,False,Non-religious plurality
+Louth and Horncastle,Non-religious,0.4745617191575862,False,Non-religious plurality
+Lowestoft,Non-religious,0.5681317669801688,True,Non-religious majority
+Luton North,Muslim,0.3639952975321717,False,Muslim plurality
+Luton South and South Bedfordshire,Christian,0.3319637757563319,False,Christian plurality
+Macclesfield,Non-religious,0.48319339498444736,False,Non-religious plurality
+Maidenhead,Christian,0.4181785776196353,False,Christian plurality
+Maidstone and Malling,Non-religious,0.47844136878752264,False,Non-religious plurality
+Makerfield,Christian,0.5641575250092791,True,Christian majority
+Maldon,Non-religious,0.5058503391883916,True,Non-religious majority
+Manchester Central,Non-religious,0.4062866946290885,False,Non-religious plurality
+Manchester Rusholme,Muslim,0.3646845184620897,False,Muslim plurality
+Manchester Withington,Non-religious,0.4994329274309012,False,Non-religious plurality
+Mansfield,Non-religious,0.5361684294525927,True,Non-religious majority
+Melksham and Devizes,Non-religious,0.5108037658131155,True,Non-religious majority
+Melton and Syston,Non-religious,0.4614676163673794,False,Non-religious plurality
+Meriden and Solihull East,Christian,0.43725764238719284,False,Christian plurality
+Merthyr Tydfil and Aberdare,Non-religious,0.6010165944584281,True,Non-religious majority
+Mid Bedfordshire,Non-religious,0.49531527056252883,False,Non-religious plurality
+Mid Buckinghamshire,Non-religious,0.45149423881740774,False,Non-religious plurality
+Mid Cheshire,Non-religious,0.479709130560593,False,Non-religious plurality
+Mid Derbyshire,Non-religious,0.5029574522159403,True,Non-religious majority
+Mid Dorset and North Poole,Non-religious,0.503500867282282,True,Non-religious majority
+Mid Leicestershire,Non-religious,0.45774853779404995,False,Non-religious plurality
+Mid Norfolk,Non-religious,0.4987848882703098,False,Non-religious plurality
+Mid Sussex,Non-religious,0.5119185936757881,True,Non-religious majority
+Mid and South Pembrokeshire,Non-religious,0.5136990679748301,True,Non-religious majority
+Middlesbrough South and East Cleveland,Non-religious,0.4801418219291796,False,Non-religious plurality
+Middlesbrough and Thornaby East,Non-religious,0.43368318935748434,False,Non-religious plurality
+Milton Keynes Central,Non-religious,0.3932189265262134,False,Non-religious plurality
+Milton Keynes North,Non-religious,0.4695155587319498,False,Non-religious plurality
+Mitcham and Morden,Christian,0.4232202032811171,False,Christian plurality
+Monmouthshire,Non-religious,0.5130706125332027,True,Non-religious majority
+Montgomeryshire and Glyndwr,Non-religious,0.5150775897078886,True,Non-religious majority
+Morecambe and Lunesdale,Christian,0.494389085916294,False,Christian plurality
+Neath and Swansea East,Non-religious,0.5733419344902208,True,Non-religious majority
+New Forest East,Non-religious,0.5162532895075589,True,Non-religious majority
+New Forest West,Christian,0.46570662590904455,False,Christian plurality
+Newark,Non-religious,0.4827624556912034,False,Non-religious plurality
+Newbury,Non-religious,0.49862050516903855,False,Non-religious plurality
+Newcastle upon Tyne Central and West,Non-religious,0.414265419666546,False,Non-religious plurality
+Newcastle upon Tyne East and Wallsend,Non-religious,0.5462913368810145,True,Non-religious majority
+Newcastle upon Tyne North,Non-religious,0.5176516459432416,True,Non-religious majority
+Newcastle-under-Lyme,Non-religious,0.4682988129704613,False,Non-religious plurality
+Newport East,Non-religious,0.49796183489815077,False,Non-religious plurality
+Newport West and Islwyn,Non-religious,0.5738209154161161,True,Non-religious majority
+Newton Abbot,Non-religious,0.5392126435689276,True,Non-religious majority
+Newton Aycliffe and Spennymoor,Non-religious,0.49617479521437324,False,Non-religious plurality
+Normanton and Hemsworth,Non-religious,0.5122254769304835,True,Non-religious majority
+North Bedfordshire,Non-religious,0.49912351621093315,False,Non-religious plurality
+North Cornwall,Non-religious,0.5232073059961736,True,Non-religious majority
+North Cotswolds,Non-religious,0.4683939793479841,False,Non-religious plurality
+North Devon,Non-religious,0.5358834068502326,True,Non-religious majority
+North Dorset,Non-religious,0.46589588987058783,False,Non-religious plurality
+North Durham,Non-religious,0.5054340560578969,True,Non-religious majority
+North East Cambridgeshire,Non-religious,0.480135523162378,False,Non-religious plurality
+North East Derbyshire,Non-religious,0.5175622004024001,True,Non-religious majority
+North East Hampshire,Non-religious,0.49618049718104956,False,Non-religious plurality
+North East Hertfordshire,Non-religious,0.5153943211565386,True,Non-religious majority
+North East Somerset and Hanham,Non-religious,0.5462089182795382,True,Non-religious majority
+North Herefordshire,Christian,0.48623082046150595,False,Christian plurality
+North Norfolk,Non-religious,0.47395820109988046,False,Non-religious plurality
+North Northumberland,Christian,0.48406630837941694,False,Christian plurality
+North Shropshire,Christian,0.4956690293424913,False,Christian plurality
+North Somerset,Non-religious,0.5259404773591838,True,Non-religious majority
+North Warwickshire and Bedworth,Non-religious,0.46073324944518496,False,Non-religious plurality
+North West Cambridgeshire,Non-religious,0.45861864652744455,False,Non-religious plurality
+North West Essex,Non-religious,0.4973236252713086,False,Non-religious plurality
+North West Hampshire,Non-religious,0.5141543440270366,True,Non-religious majority
+North West Leicestershire,Non-religious,0.5297106555374819,True,Non-religious majority
+North West Norfolk,Non-religious,0.46586876889939327,False,Non-religious plurality
+Northampton North,Christian,0.41834001572442336,False,Christian plurality
+Northampton South,Christian,0.43046846663739086,False,Christian plurality
+Norwich North,Non-religious,0.5604748156017556,True,Non-religious majority
+Norwich South,Non-religious,0.5871187620424662,True,Non-religious majority
+Nottingham East,Non-religious,0.41547447347305344,False,Non-religious plurality
+Nottingham North and Kimberley,Non-religious,0.4893489040837323,False,Non-religious plurality
+Nottingham South,Non-religious,0.46565383086977835,False,Non-religious plurality
+Nuneaton,Non-religious,0.46326871123915747,False,Non-religious plurality
+Old Bexley and Sidcup,Christian,0.4218538087387145,False,Christian plurality
+Oldham East and Saddleworth,Christian,0.3901362971724995,False,Christian plurality
+"Oldham West, Chadderton and Royton",Muslim,0.35636122959687955,False,Muslim plurality
+Orpington,Non-religious,0.42928552419330196,False,Non-religious plurality
+Ossett and Denby Dale,Non-religious,0.49386158561756666,False,Non-religious plurality
+Oxford East,Non-religious,0.4001359000887885,False,Non-religious plurality
+Oxford West and Abingdon,Non-religious,0.4766326729458527,False,Non-religious plurality
+Peckham,Christian,0.4136745127676591,False,Christian plurality
+Pendle and Clitheroe,Christian,0.38728768873962194,False,Christian plurality
+Penistone and Stocksbridge,Non-religious,0.49588373169061667,False,Non-religious plurality
+Penrith and Solway,Christian,0.5009429593306355,True,Christian majority
+Peterborough,Christian,0.38778909426151736,False,Christian plurality
+Plymouth Moor View,Non-religious,0.5733506096877464,True,Non-religious majority
+Plymouth Sutton and Devonport,Non-religious,0.5945032640138289,True,Non-religious majority
+"Pontefract, Castleford and Knottingley",Non-religious,0.5334947206241841,True,Non-religious majority
+Pontypridd,Non-religious,0.6325540499214372,True,Non-religious majority
+Poole,Non-religious,0.5051998464025695,True,Non-religious majority
+Poplar and Limehouse,Muslim,0.3788272928987062,False,Muslim plurality
+Portsmouth North,Non-religious,0.5531673601892229,True,Non-religious majority
+Portsmouth South,Non-religious,0.5214082860050808,True,Non-religious majority
+Preston,Christian,0.3697395959497714,False,Christian plurality
+Putney,Non-religious,0.391464189840397,False,Non-religious plurality
+Queen's Park and Maida Vale,Christian,0.34853719508213726,False,Christian plurality
+Rawmarsh and Conisbrough,Non-religious,0.5137490111578834,True,Non-religious majority
+Rayleigh and Wickford,Non-religious,0.5258877134972055,True,Non-religious majority
+Reading Central,Non-religious,0.39960601032824783,False,Non-religious plurality
+Reading West and Mid Berkshire,Non-religious,0.4680487374543299,False,Non-religious plurality
+Redcar,Non-religious,0.504564037179744,True,Non-religious majority
+Redditch,Non-religious,0.4714776208255621,False,Non-religious plurality
+Reigate,Non-religious,0.43848673206960653,False,Non-religious plurality
+Rhondda and Ogmore,Non-religious,0.6872018695872977,True,Non-religious majority
+Ribble Valley,Christian,0.5609161899864046,True,Christian majority
+Richmond Park,Non-religious,0.42724809430909927,False,Non-religious plurality
+Richmond and Northallerton,Christian,0.496098717838126,False,Christian plurality
+Rochdale,Muslim,0.3301499175279421,False,Muslim plurality
+Rochester and Strood,Non-religious,0.5145362859027196,True,Non-religious majority
+Romford,Christian,0.4359753187961279,False,Christian plurality
+Romsey and Southampton North,Non-religious,0.4641582709448424,False,Non-religious plurality
+Rossendale and Darwen,Non-religious,0.470384655741282,False,Non-religious plurality
+Rother Valley,Non-religious,0.5005320276644485,True,Non-religious majority
+Rotherham,Non-religious,0.4731534682121689,False,Non-religious plurality
+Rugby,Non-religious,0.4326925919573717,False,Non-religious plurality
+"Ruislip, Northwood and Pinner",Christian,0.3570487285824019,False,Christian plurality
+Runcorn and Helsby,Non-religious,0.48574866044235854,False,Non-religious plurality
+Runnymede and Weybridge,Christian,0.45905505161129545,False,Christian plurality
+Rushcliffe,Non-religious,0.5253732715604649,True,Non-religious majority
+Rutland and Stamford,Christian,0.461058590888178,False,Christian plurality
+Salford,Non-religious,0.44667520489065865,False,Non-religious plurality
+Salisbury,Non-religious,0.46496720566417654,False,Non-religious plurality
+Scarborough and Whitby,Non-religious,0.48050252127424364,False,Non-religious plurality
+Scunthorpe,Non-religious,0.47120080247863594,False,Non-religious plurality
+Sefton Central,Christian,0.6151649736507355,True,Christian majority
+Selby,Non-religious,0.48922171207972837,False,Non-religious plurality
+Sevenoaks,Non-religious,0.47384534709459064,False,Non-religious plurality
+Sheffield Brightside and Hillsborough,Non-religious,0.43766718192220383,False,Non-religious plurality
+Sheffield Central,Non-religious,0.540931520305092,True,Non-religious majority
+Sheffield Hallam,Non-religious,0.5327807784248244,True,Non-religious majority
+Sheffield Heeley,Non-religious,0.5359710474754914,True,Non-religious majority
+Sheffield South East,Non-religious,0.4634736238248913,False,Non-religious plurality
+Sherwood Forest,Non-religious,0.5452910618659197,True,Non-religious majority
+Shipley,Non-religious,0.48541847389064896,False,Non-religious plurality
+Shrewsbury,Non-religious,0.4944073670710083,False,Non-religious plurality
+Sittingbourne and Sheppey,Non-religious,0.5429542227328423,True,Non-religious majority
+Skipton and Ripon,Christian,0.4802740320870552,False,Christian plurality
+Sleaford and North Hykeham,Non-religious,0.4902055924368087,False,Non-religious plurality
+Slough,Muslim,0.33957149290117483,False,Muslim plurality
+Smethwick,Christian,0.2852986293818041,False,Christian plurality
+Solihull West and Shirley,Christian,0.4198121484126927,False,Christian plurality
+South Basildon and East Thurrock,Non-religious,0.4896769708827311,False,Non-religious plurality
+South Cambridgeshire,Non-religious,0.48175073441929545,False,Non-religious plurality
+South Cotswolds,Non-religious,0.4627997327667685,False,Non-religious plurality
+South Derbyshire,Non-religious,0.5150441653994626,True,Non-religious majority
+South Devon,Non-religious,0.5212367610051416,True,Non-religious majority
+South Dorset,Non-religious,0.5158719972171077,True,Non-religious majority
+South East Cornwall,Non-religious,0.5229450099066345,True,Non-religious majority
+South Holland and The Deepings,Christian,0.49833787552436554,False,Christian plurality
+South Leicestershire,Non-religious,0.522439560097293,True,Non-religious majority
+South Norfolk,Non-religious,0.5405387287326973,True,Non-religious majority
+South Northamptonshire,Non-religious,0.4870148673909053,False,Non-religious plurality
+South Ribble,Christian,0.5422661213351109,True,Christian majority
+South Shields,Non-religious,0.4910798332114029,False,Non-religious plurality
+South Shropshire,Christian,0.5146762836161547,True,Christian majority
+South Suffolk,Non-religious,0.5089150569859611,True,Non-religious majority
+South West Devon,Non-religious,0.5183264283606089,True,Non-religious majority
+South West Hertfordshire,Christian,0.4103610576922778,False,Christian plurality
+South West Norfolk,Non-religious,0.5024449838209101,True,Non-religious majority
+South West Wiltshire,Non-religious,0.5141137888458782,True,Non-religious majority
+Southampton Itchen,Non-religious,0.5254767908677496,True,Non-religious majority
+Southampton Test,Non-religious,0.46839238729501614,False,Non-religious plurality
+Southend East and Rochford,Non-religious,0.534307224332978,True,Non-religious majority
+Southend West and Leigh,Non-religious,0.5234626267946209,True,Non-religious majority
+Southgate and Wood Green,Christian,0.40407684908928915,False,Christian plurality
+Southport,Christian,0.5104163208312377,True,Christian majority
+Spelthorne,Christian,0.43727103395469097,False,Christian plurality
+Spen Valley,Non-religious,0.4640931329789996,False,Non-religious plurality
+St Albans,Non-religious,0.44256802758709524,False,Non-religious plurality
+St Austell and Newquay,Non-religious,0.5656718191701336,True,Non-religious majority
+St Helens North,Christian,0.5259790069169034,True,Christian majority
+St Helens South and Whiston,Christian,0.5316874182330764,True,Christian majority
+St Ives,Non-religious,0.5425929557403167,True,Non-religious majority
+St Neots and Mid Cambridgeshire,Non-religious,0.5379826137026409,True,Non-religious majority
+Stafford,Non-religious,0.460707715582119,False,Non-religious plurality
+Staffordshire Moorlands,Christian,0.5056019299118824,True,Christian majority
+Stalybridge and Hyde,Non-religious,0.49314939526833773,False,Non-religious plurality
+Stevenage,Non-religious,0.5091323390672037,True,Non-religious majority
+Stockport,Non-religious,0.5140547061811551,True,Non-religious majority
+Stockton North,Non-religious,0.5075012717778566,True,Non-religious majority
+Stockton West,Christian,0.46849678883544615,False,Christian plurality
+Stoke-on-Trent Central,Non-religious,0.4546275297245462,False,Non-religious plurality
+Stoke-on-Trent North,Non-religious,0.45433213972356196,False,Non-religious plurality
+Stoke-on-Trent South,Christian,0.4455451334923168,False,Christian plurality
+"Stone, Great Wyrley and Penkridge",Christian,0.4974927913345836,False,Christian plurality
+Stourbridge,Non-religious,0.45020071799174927,False,Non-religious plurality
+Stratford and Bow,Muslim,0.33275255064188203,False,Muslim plurality
+Stratford-on-Avon,Christian,0.48830240729195007,False,Christian plurality
+Streatham and Croydon North,Christian,0.41669794014135747,False,Christian plurality
+Stretford and Urmston,Non-religious,0.39762795451537286,False,Non-religious plurality
+Stroud,Non-religious,0.535918944124516,True,Non-religious majority
+Suffolk Coastal,Non-religious,0.5107000043849463,True,Non-religious majority
+Sunderland Central,Non-religious,0.4580371297895841,False,Non-religious plurality
+Surrey Heath,Non-religious,0.43606487869313754,False,Non-religious plurality
+Sussex Weald,Non-religious,0.5117647231288994,True,Non-religious majority
+Sutton Coldfield,Christian,0.45507889533741147,False,Christian plurality
+Sutton and Cheam,Christian,0.38836273856270837,False,Christian plurality
+Swansea West,Non-religious,0.5458833644641563,True,Non-religious majority
+Swindon North,Non-religious,0.49772836604341103,False,Non-religious plurality
+Swindon South,Non-religious,0.43503765881441303,False,Non-religious plurality
+Tamworth,Non-religious,0.5028510628516267,True,Non-religious majority
+Tatton,Christian,0.4686427589762107,False,Christian plurality
+Taunton and Wellington,Non-religious,0.5080416538927249,True,Non-religious majority
+Telford,Non-religious,0.5253265331395123,True,Non-religious majority
+Tewkesbury,Non-religious,0.4864708562938437,False,Non-religious plurality
+The Wrekin,Christian,0.4434645303963819,False,Christian plurality
+Thirsk and Malton,Christian,0.5018200636006648,True,Christian majority
+Thornbury and Yate,Non-religious,0.5344050041035749,True,Non-religious majority
+Thurrock,Christian,0.4523985040112957,False,Christian plurality
+Tipton and Wednesbury,Christian,0.3703903618976189,False,Christian plurality
+Tiverton and Minehead,Non-religious,0.5035418384787954,True,Non-religious majority
+Tonbridge,Non-religious,0.49801373251621417,False,Non-religious plurality
+Tooting,Non-religious,0.42061910530356045,False,Non-religious plurality
+Torbay,Non-religious,0.5174289301839516,True,Non-religious majority
+Torfaen,Non-religious,0.5852927179016292,True,Non-religious majority
+Torridge and Tavistock,Non-religious,0.508896292530504,True,Non-religious majority
+Tottenham,Christian,0.37095070648736633,False,Christian plurality
+Truro and Falmouth,Non-religious,0.5613557221011559,True,Non-religious majority
+Tunbridge Wells,Non-religious,0.4858093934150034,False,Non-religious plurality
+Twickenham,Non-religious,0.4590965574623785,False,Non-religious plurality
+Tynemouth,Non-religious,0.5529301923595967,True,Non-religious majority
+Uxbridge and South Ruislip,Christian,0.37548545393943067,False,Christian plurality
+Vale of Glamorgan,Non-religious,0.5705244703484171,True,Non-religious majority
+Vauxhall and Camberwell Green,Christian,0.4039303451194112,False,Christian plurality
+Wakefield and Rothwell,Non-religious,0.46967608954795076,False,Non-religious plurality
+Wallasey,Non-religious,0.49658055542185575,False,Non-religious plurality
+Walsall and Bloxwich,Christian,0.31140307736884737,False,Christian plurality
+Walthamstow,Non-religious,0.35569781096307984,False,Non-religious plurality
+Warrington North,Christian,0.48419811019049996,False,Christian plurality
+Warrington South,Christian,0.4846156147321399,False,Christian plurality
+Warwick and Leamington,Non-religious,0.4779911487962699,False,Non-religious plurality
+Washington and Gateshead South,Non-religious,0.5197367587821601,True,Non-religious majority
+Watford,Christian,0.39056809236391293,False,Christian plurality
+Waveney Valley,Non-religious,0.5025574433687586,True,Non-religious majority
+Weald of Kent,Non-religious,0.46845782431003635,False,Non-religious plurality
+Wellingborough and Rushden,Non-religious,0.49484753158275224,False,Non-religious plurality
+Wells and Mendip Hills,Non-religious,0.498850931561321,False,Non-religious plurality
+Welwyn Hatfield,Non-religious,0.4331947439457713,False,Non-religious plurality
+West Bromwich,Christian,0.32376315537467243,False,Christian plurality
+West Dorset,Non-religious,0.46495663013440097,False,Non-religious plurality
+West Ham and Beckton,Christian,0.40697021060957844,False,Christian plurality
+West Lancashire,Christian,0.5172662875587656,True,Christian majority
+West Suffolk,Non-religious,0.5058518477993037,True,Non-religious majority
+West Worcestershire,Christian,0.46707330251303564,False,Christian plurality
+Westmorland and Lonsdale,Christian,0.4769540992048262,False,Christian plurality
+Weston-super-Mare,Non-religious,0.5494323500621195,True,Non-religious majority
+Wetherby and Easingwold,Christian,0.5096204489406917,True,Christian majority
+Whitehaven and Workington,Christian,0.5481033918120537,True,Christian majority
+Widnes and Halewood,Christian,0.5585527601211465,True,Christian majority
+Wigan,Christian,0.5488615447449563,True,Christian majority
+Wimbledon,Christian,0.407367852019846,False,Christian plurality
+Winchester,Non-religious,0.4996500557671269,False,Non-religious plurality
+Windsor,Christian,0.414015050194753,False,Christian plurality
+Wirral West,Christian,0.5252251784039464,True,Christian majority
+Witham,Non-religious,0.5144868641922151,True,Non-religious majority
+Witney,Non-religious,0.49567082240448845,False,Non-religious plurality
+Woking,Christian,0.4082527725827371,False,Christian plurality
+Wokingham,Non-religious,0.4613929653669578,False,Non-religious plurality
+Wolverhampton North East,Christian,0.41732408121833214,False,Christian plurality
+Wolverhampton South East,Non-religious,0.3631554007893179,False,Non-religious plurality
+Wolverhampton West,Christian,0.3568249602654139,False,Christian plurality
+Worcester,Non-religious,0.4723378675660779,False,Non-religious plurality
+Worsley and Eccles,Christian,0.4521872941044912,False,Christian plurality
+Worthing West,Non-religious,0.5172642897454888,True,Non-religious majority
+Wrexham,Non-religious,0.48103700255833876,False,Non-religious plurality
+Wycombe,Non-religious,0.3507552246295237,False,Non-religious plurality
+Wyre Forest,Non-religious,0.47302132030923305,False,Non-religious plurality
+Wythenshawe and Sale East,Non-religious,0.45651638271834355,False,Non-religious plurality
+Yeovil,Non-religious,0.47951604778840157,False,Non-religious plurality
+Ynys Môn,Non-religious,0.48894222446903035,False,Non-religious plurality
+York Central,Non-religious,0.591815338129235,True,Non-religious majority
+York Outer,Non-religious,0.48896938685988717,False,Non-religious plurality
+Aberdeen North,Non-religious,0.6318039508747294,True,Non-religious majority
+Aberdeen South,Non-religious,0.6114912940984507,True,Non-religious majority
+Aberdeenshire North and Moray East,Non-religious,0.6428315568835298,True,Non-religious majority
+Airdrie and Shotts,Christian,0.4870215455293013,False,Christian plurality
+Alloa and Grangemouth,Non-religious,0.6397668296996758,True,Non-religious majority
+Angus and Perthshire Glens,Non-religious,0.613215996268389,True,Non-religious majority
+Arbroath and Broughty Ferry,Non-religious,0.6388678999139358,True,Non-religious majority
+"Argyll, Bute and South Lochaber",Non-religious,0.5576849755846491,True,Non-religious majority
+"Ayr, Carrick and Cumnock",Non-religious,0.5913426136480193,True,Non-religious majority
+Bathgate and Linlithgow,Non-religious,0.6017815593573186,True,Non-religious majority
+"Berwickshire, Roxburgh and Selkirk",Non-religious,0.6214276937084116,True,Non-religious majority
+"Caithness, Sutherland and Easter Ross",Non-religious,0.6208418144755814,True,Non-religious majority
+Central Ayrshire,Non-religious,0.5825138574854113,True,Non-religious majority
+Coatbridge and Bellshill,Christian,0.509428811021285,True,Christian majority
+Cowdenbeath and Kirkcaldy,Non-religious,0.6738806957463322,True,Non-religious majority
+Cumbernauld and Kirkintilloch,Non-religious,0.5173402296737528,True,Non-religious majority
+Dumfries and Galloway,Non-religious,0.6010601099981543,True,Non-religious majority
+"Dumfriesshire, Clydesdale and Tweeddale",Non-religious,0.599735738464142,True,Non-religious majority
+Dundee Central,Non-religious,0.5915134301643058,True,Non-religious majority
+Dunfermline and Dollar,Non-religious,0.6730899321436125,True,Non-religious majority
+East Kilbride and Strathaven,Non-religious,0.5550126350773097,True,Non-religious majority
+East Renfrewshire,Non-religious,0.4338234259512956,False,Non-religious plurality
+Edinburgh East and Musselburgh,Non-religious,0.6242602284468547,True,Non-religious majority
+Edinburgh North and Leith,Non-religious,0.6317346706392062,True,Non-religious majority
+Edinburgh South,Non-religious,0.6066825333352354,True,Non-religious majority
+Edinburgh South West,Non-religious,0.5997335529103054,True,Non-religious majority
+Edinburgh West,Non-religious,0.5843147299419656,True,Non-religious majority
+Falkirk,Non-religious,0.6058594708610638,True,Non-religious majority
+Glasgow East,Non-religious,0.43286161515026494,False,Non-religious plurality
+Glasgow North,Non-religious,0.535832592961185,True,Non-religious majority
+Glasgow North East,Non-religious,0.45722580280937464,False,Non-religious plurality
+Glasgow South,Non-religious,0.502081281171939,True,Non-religious majority
+Glasgow South West,Non-religious,0.43043898329181685,False,Non-religious plurality
+Glasgow West,Non-religious,0.546464192046689,True,Non-religious majority
+Glenrothes and Mid Fife,Non-religious,0.7021762504989703,True,Non-religious majority
+Gordon and Buchan,Non-religious,0.6674621627493329,True,Non-religious majority
+Hamilton and Clyde Valley,Non-religious,0.5084185335690283,True,Non-religious majority
+Inverclyde and Renfrewshire West,Christian,0.5231907125634063,True,Christian majority
+"Inverness, Skye and West Ross-shire",Non-religious,0.6085825021281304,True,Non-religious majority
+Kilmarnock and Loudoun,Non-religious,0.6257332353917773,True,Non-religious majority
+Livingston,Non-religious,0.6102675130679369,True,Non-religious majority
+Lothian East,Non-religious,0.6465015240922625,True,Non-religious majority
+Mid Dunbartonshire,Non-religious,0.4978849857464318,False,Non-religious plurality
+Midlothian,Non-religious,0.6701635766911,True,Non-religious majority
+"Moray West, Nairn and Strathspey",Non-religious,0.6507513265143416,True,Non-religious majority
+"Motherwell, Wishaw and Carluke",Non-religious,0.47086128013325385,False,Non-religious plurality
+Na h-Eileanan an Iar,Christian,0.5772116869038254,True,Christian majority
+North Ayrshire and Arran,Non-religious,0.5598611966266163,True,Non-religious majority
+North East Fife,Non-religious,0.6174257538823122,True,Non-religious majority
+Orkney and Shetland,Non-religious,0.6662365223503915,True,Non-religious majority
+Paisley and Renfrewshire North,Non-religious,0.5211547541806381,True,Non-religious majority
+Paisley and Renfrewshire South,Non-religious,0.5420223576352988,True,Non-religious majority
+Perth and Kinross-shire,Non-religious,0.597086715253184,True,Non-religious majority
+Rutherglen,Non-religious,0.48122589415599276,False,Non-religious plurality
+Stirling and Strathallan,Non-religious,0.5938271229263747,True,Non-religious majority
+West Aberdeenshire and Kincardine,Non-religious,0.6574774924268529,True,Non-religious majority
+West Dunbartonshire,Non-religious,0.48513652174685623,False,Non-religious plurality
+Belfast East,Christian,0.5937866523135501,True,Christian majority
+Belfast North,Christian,0.7301780814639298,True,Christian majority
+Belfast South and Mid Down,Christian,0.6147978770174487,True,Christian majority
+Belfast West,Christian,0.842505776626857,True,Christian majority
+East Antrim,Christian,0.6792232416732511,True,Christian majority
+East Londonderry,Christian,0.798339232828199,True,Christian majority
+Fermanagh and South Tyrone,Christian,0.8616151350202103,True,Christian majority
+Foyle,Christian,0.8614460461538531,True,Christian majority
+Lagan Valley,Christian,0.6980338548005464,True,Christian majority
+Mid Ulster,Christian,0.8910707477630667,True,Christian majority
+Newry and Armagh,Christian,0.8647430117221672,True,Christian majority
+North Antrim,Christian,0.7808694878148109,True,Christian majority
+North Down,Christian,0.5905229398977873,True,Christian majority
+South Antrim,Christian,0.7214915561477175,True,Christian majority
+South Down,Christian,0.8545792474811936,True,Christian majority
+Strangford,Christian,0.6863849054441711,True,Christian majority
+Upper Bann,Christian,0.7706695724047548,True,Christian majority
+West Tyrone,Christian,0.9007619522019069,True,Christian majority
